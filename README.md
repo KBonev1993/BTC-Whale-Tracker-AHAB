@@ -19,7 +19,6 @@ To use this script, simply call the track_whale_activity function with the desir
 
 Example Usage
 python
-Copy code
 try:
     result = track_whale_activity(1000000, 10000000)
     print(result)
